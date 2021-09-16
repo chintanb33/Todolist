@@ -94,9 +94,10 @@ body {
     white-space: pre;
     overflow: hidden;     
     letter-spacing: 0.20rem;
+    margin-left: 30px;
     margin-top: 50px;
     margin-bottom: 20px;
-    max-width: 480px;
+    max-width: 630px;
   }
   
   /* Animation */
@@ -113,7 +114,7 @@ body {
   
   @keyframes animated-text{
     from{width: 0%;}
-    to{width: 480px;}
+    to{width: 630px;}
   }
   
   /* cursor animations */
